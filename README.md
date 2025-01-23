@@ -21,6 +21,7 @@ Gestion des carrières : Chaque carrière d'un joueur dans une équipe est repr�
 
 
 Structure du projet
+
 Le projet se compose de plusieurs classes PHP pour gérer les entités :
 
 Classe Pays : Représente un pays avec ses équipes et joueurs. Elle permet d'ajouter des équipes et des joueurs, ainsi que d'afficher des informations à leur sujet.
